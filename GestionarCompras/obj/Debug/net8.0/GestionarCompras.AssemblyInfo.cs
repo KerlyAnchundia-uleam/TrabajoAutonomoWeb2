@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionarCompras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d88b3ab7364083c630286486a3e791b00fcc6e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionarCompras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionarCompras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
