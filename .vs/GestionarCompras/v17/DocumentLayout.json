@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\GestionarCompras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|c:\\users\\pc\\desktop\\gestionarcompras\\gestionarcompras\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|solutionrelative:gestionarcompras\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|c:\\users\\pc\\desktop\\gestionarcompras\\gestionarcompras\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|solutionrelative:gestionarcompras\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|c:\\users\\pc\\desktop\\gestionarcompras\\gestionarcompras\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB095E86-3A93-4A04-899E-BC78B2471C8E}|GestionarCompras\\GestionarCompras.csproj|solutionrelative:gestionarcompras\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "GestionarCompras\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "GestionarCompras\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:23:26.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionarCompras\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Models\\Producto.cs",
+              "RelativeToolTip": "GestionarCompras\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:19:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "GestionarCompras\\Controllers\\CategoriaController.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "GestionarCompras\\Models\\Categoria.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "GestionarCompras\\Models\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T00:14:21.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T00:14:21.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProveedorController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "GestionarCompras\\Controllers\\ProveedorController.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "GestionarCompras\\Controllers\\ProveedorController.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T00:09:36.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T00:09:36.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\GestionarCompras\\GestionarCompras\\Models\\Proveedor.cs",
               "RelativeDocumentMoniker": "GestionarCompras\\Models\\Proveedor.cs",
